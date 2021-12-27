@@ -1,0 +1,27 @@
+.container{
+     margin: 0;
+     padding: 0;
+     display: inline;
+     background-color: aquamarine;
+     margin: 0;
+     padding: 0;
+}
+.titulo{
+     background-color: violet;
+     color: blueviolet;
+     font-size: medium;
+     font-weight: 300;
+}
+.subtitulo{
+     background-color: blueviolet;
+     color: pink;
+     font-size: medium;
+     font-weight: 300;
+}
+.contenido{
+     background-color: pink;
+     color: violet;
+     font-size: medium;
+     font-weight: 300;
+}
+
